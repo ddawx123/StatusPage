@@ -15,8 +15,8 @@
 
 ## 演示
 
-[酷Q状态](https://status.cqp.cc)
+[状态](http://status.dscitech.com)
 
 ## License
 
-This work is licensed under [GPLv3](https://github.com/CoolQ/Cup/blob/master/LICENSE).
+This work is licensed under GPLv3
